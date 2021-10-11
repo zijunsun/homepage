@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+---
+layout: page
+title: Zijun Sun
+---
 
-You can use the [editor on GitHub](https://github.com/zijunsun/sunzijun.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="assets/sunzijun.jpg">
+            <img src="assets/sunzijun.jpg" height="210" width="150" title="Zijun Sun" alt="Zijun Sun"/>
+        </a>
+        </div>
+    </div>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### RESEARCH INTERESTS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The focus of my research is natural language process(NLP).
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### PROFESSIONAL EXPERIENCE AND EDUCATION
 
-- Bulleted
-- List
+2020.7 - present:  <b>NLP researcher</b><br/>
+Mentor: [Dr. Jiwei Li](https://nlp.stanford.edu/~bdlijiwei/) <br/>
+<a href="https://www.shannonai.com/en">Shannon AI</a><br/>
+Location: Haidian, Beijing, China
 
-1. Numbered
-2. List
+2017.9 - 2020.7:  <b>Graduate/Master Student</b><br/>
+    major: computer science<br/>
+    <a href="https://eecs.pku.edu.cn/Home/HOME.htm">School of Electronics Engineering and Computer Science</a><br/>
+    Peking University, Beijing, China<br/>
 
-**Bold** and _Italic_ and `Code` text
+2013.9 - 2017.6:  <b>Undergraduate/B.S. Student</b><br/>
+    Major: software engineering<br/>
+    <a href="http://www.sei.ynu.edu.cn/index.htm">National Pilot School of software</a><br/>
+    Yunnan University, Yunnan, China<br/>
 
-[Link](url) and ![Image](src)
-```
+---
+### INTERNSHIP
+2018.6 - 2019.4:  <b>research intern</b><br/>
+Advisor: [Dr. Jiwei Li](https://nlp.stanford.edu/~bdlijiwei/) <br/>
+Topic: Question Answering, <br/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2018.6 - 2019.4:  <b>research assistant</b><br/>
+Advisor: [Sujian Li]()<br/>
+Topic: Event Extraction<br/>
+---
 
-### Jekyll Themes
+### HONORS AND AWARDS
+2015 - 2017 Academic Scholarship Award of Chang Hungta Science Foundation, Sun Yat-sen University<br/>
+2015    National Scholarship Award for Graduate Students, China<br/>
+2015    Wang Bosun Ecology Scholarship Award, Sun Yat-sen University<br/>
+2015    Second Prize for Outstanding Graduate Award, State Key Laboratory of Biocontrol, Sun Yat-sen University<br/>
+2008 - 2010 First Prize Scholarship Award for Undergraduate Students, Sun Yat-Sen University<br/>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zijunsun/sunzijun.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### CONTACT INFORMATION
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div class="container">
+    <div class="row-fluid">
+            <b>Email</b>: sunzijun@pku.edu.cn, zijun_sun@shannonai.com<br/>
+            <b>GitHub</b>: <a href="https://github.com/zijunsun">https://github.com/zijunsun</a><br/>
+    </div>
+</div>
