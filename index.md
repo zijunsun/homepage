@@ -41,13 +41,13 @@ Location: Haidian, Beijing, China
 ### INTERNSHIP
 2018.6 - 2019.4:  <b>research intern</b><br/>
 Advisor: [Dr. Jiwei Li](https://nlp.stanford.edu/~bdlijiwei/) <br/>
-Topic: Question Answering, <br/>
+Topic: Question Answering, Event Extraction<br/>
 
 2018.6 - 2019.4:  <b>research assistant</b><br/>
 Advisor: [Sujian Li]()<br/>
-Topic: Event Extraction<br/>
----
+Topic: Event Extraction, Graph Neural Network<br/>
 
+---
 ### HONORS AND AWARDS
 2015 - 2017 Academic Scholarship Award of Chang Hungta Science Foundation, Sun Yat-sen University<br/>
 2015    National Scholarship Award for Graduate Students, China<br/>
