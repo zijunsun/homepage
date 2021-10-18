@@ -8,9 +8,9 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Zijun Sun
+title : Zijun Sun's Homepage
 author :
-  name : Zijun Sun's Homepage
+  name : Zijun Sun
   email : zijunsun@pku.edu.cn
   github : https://github.com/zijunsun
   feedburner : nil
