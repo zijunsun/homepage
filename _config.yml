@@ -8,11 +8,11 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Yuchen Yang @ UNC-CH
+title : Zijun Sun
 author :
-  name : Yuchen Yang
-  email : yyuchen@email.unc.edu
-  github : https://github.com/yycunc
+  name : Zijun Sun
+  email : zijunsun@pku.edu.cn
+  github : https://github.com/zijunsun
   feedburner : nil
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
