@@ -49,7 +49,7 @@ Location: Haidian, Beijing, China
 ---
 ### INTERNSHIP
 2018.6 - 2019.4:  <b>research intern</b><br/>
-Advisor: [Dr. Jiwei Li](https://nlp.stanford.edu/~bdlijiwei/) <br/>
+Advisor: [Dr. Jiwei Li](https://nlp.stanford.edu/~bdlijiwei/), Chief Executive Officer, Shannon.ai <br/>
 Topics: Question Answering, Event Extraction<br/>
 - Proposed a new paradigm for the task of entity-relation extraction. 
   By casting the task as a multi-turn question answering problem, 
@@ -61,7 +61,7 @@ Topics: Question Answering, Event Extraction<br/>
   the pipeline includes tagging, parsing, nl2sql.
 
 2018.6 - 2019.4:  <b>research assistant</b><br/>
-Advisor: [Sujian Li]()<br/>
+Advisor: [Dr. Sujian Li](http://123.56.88.210/), Associate Professor, Peking University <br/>
 Topics: Event Extraction, Graph Convolutional Networks<br/>
 - Proposed a multi-view graph convolutional networks for the task of event extraction.
 - Introduced shortcut arcs (e.g. AMR, Parse tree, Syntax Tree) to enhance information flow.
