@@ -16,7 +16,16 @@ title: Zijun Sun
 
 ### RESEARCH INTERESTS
 
-The focus of my research is natural language process(NLP).
+I am a Research Scientist at Shannon.AI since 2020. Before that, I obtained my M.S. degree at Peking University 
+in 2020. My research interests are in natural language processing and deep learning.  
+My main work is to track the state-of-the-art algorithms in natural language processing, I not only do research 
+on basic NLP algorithms(e.g. QA, adapter, classification..), 
+but also explore the practical NLP applications for real-world problems, 
+such as document event extraction, text error correction.  
+In recent years, with the advancement of pretraining models, I devote myself into multimodel pretraining models. 
+For Chinese, I propose a multimodel pretraining model, 
+which considers both visual and phonetic information, and this pre-trained model can carry significant syntax and 
+semantic information for language understanding.
 
 ---
 
@@ -41,11 +50,22 @@ Location: Haidian, Beijing, China
 ### INTERNSHIP
 2018.6 - 2019.4:  <b>research intern</b><br/>
 Advisor: [Dr. Jiwei Li](https://nlp.stanford.edu/~bdlijiwei/) <br/>
-Topic: Question Answering, Event Extraction<br/>
+Topics: Question Answering, Event Extraction<br/>
+- Proposed a new paradigm for the task of entity-relation extraction. 
+  By casting the task as a multi-turn question answering problem, 
+  the extraction of entities and relations is transformed to the task of identifying 
+  answer spans from the context.
+- Created a novel strategy for the task of named entity recognition (NER). 
+  We cast the task as a query-based machine reading comprehension task.
+- Implemented a Knowledge Base Question Answering System(KBQA) for stock market, 
+  the pipeline includes tagging, parsing, nl2sql.
 
 2018.6 - 2019.4:  <b>research assistant</b><br/>
 Advisor: [Sujian Li]()<br/>
-Topic: Event Extraction, Graph Neural Network<br/>
+Topics: Event Extraction, Graph Convolutional Networks<br/>
+- Proposed a multi-view graph convolutional networks for the task of event extraction.
+- Introduced shortcut arcs (e.g. AMR, Parse tree, Syntax Tree) to enhance information flow.
+- Captured the very long-distance dependencies by graph convolutional neural network.
 
 ---
 ### HONORS AND AWARDS
