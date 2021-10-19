@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected researches
+title: Selected Researches
 ---
 
 ### ChineseBert: Chinese Pretraining Enhanced by Glyph and Pinyin Information
