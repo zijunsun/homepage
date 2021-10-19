@@ -38,11 +38,14 @@ Location: Haidian, Beijing, China
 
 2017.9 - 2020.7:  <b>Graduate/Master Student</b><br/>
     major: computer science<br/>
+    Rank: 1 / 15  
     <a href="https://eecs.pku.edu.cn/Home/HOME.htm">School of Electronics Engineering and Computer Science</a><br/>
     Peking University, Beijing, China<br/>
 
 2013.9 - 2017.6:  <b>Undergraduate/B.S. Student</b><br/>
     Major: software engineering<br/>
+    Rank: 1 / 58   
+    GPA: 3.61/4.0  
     <a href="http://www.sei.ynu.edu.cn/index.htm">National Pilot School of software</a><br/>
     Yunnan University, Yunnan, China<br/>
 
@@ -69,11 +72,14 @@ Topics: Event Extraction, Graph Convolutional Networks<br/>
 
 ---
 ### HONORS AND AWARDS
-2015 - 2017 Academic Scholarship Award of Chang Hungta Science Foundation, Sun Yat-sen University<br/>
-2015    National Scholarship Award for Graduate Students, China<br/>
-2015    Wang Bosun Ecology Scholarship Award, Sun Yat-sen University<br/>
-2015    Second Prize for Outstanding Graduate Award, State Key Laboratory of Biocontrol, Sun Yat-sen University<br/>
-2008 - 2010 First Prize Scholarship Award for Undergraduate Students, Sun Yat-Sen University<br/>
+2018-2019 The Second Prize Scholarship, Peking University (Top 16% of the campus)  
+2018-2019 Outstanding Student Award, Peking University (Ranked first in class)    
+2017-2018 Outstanding Research Scholarship, Peking University 
+
+2015-2016 Outstanding Graduates, Yunnan University
+2015-2016 The First Prize Scholarship, Yunnan University (Ranked first in school)
+2014-2015 The First Prize Scholarship, Yunnan University (Ranked first in school)
+2013-2014 China National Scholarship, Yunnan University (Ranked first in school) 
 
 ---
 
@@ -81,7 +87,7 @@ Topics: Event Extraction, Graph Convolutional Networks<br/>
 
 <div class="container">
     <div class="row-fluid">
-            <b>Email</b>: sunzijun@pku.edu.cn, zijun_sun@shannonai.com<br/>
+            <b>Email</b>: sunzijun@pku.edu.cn<br/>
             <b>GitHub</b>: <a href="https://github.com/zijunsun">https://github.com/zijunsun</a><br/>
     </div>
 </div>
