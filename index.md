@@ -73,13 +73,13 @@ Topics: Event Extraction, Graph Convolutional Networks<br/>
 ---
 ### HONORS AND AWARDS
 2018-2019 The Second Prize Scholarship, Peking University (Top 16% of school)  
-2018-2019 Outstanding Student Award, Peking University (Ranked first in class)    
+2018-2019 Outstanding Student Award, Peking University (Ranked 1st in class)    
 2017-2018 Outstanding Research Scholarship, Peking University 
 
 2015-2016 Outstanding Graduates, Yunnan University  
-2015-2016 The First Prize Scholarship, Yunnan University (Ranked first in school)  
-2014-2015 The First Prize Scholarship, Yunnan University (Ranked first in school)  
-2013-2014 China National Scholarship, Yunnan University (Ranked first in school) 
+2015-2016 The First Prize Scholarship, Yunnan University (Ranked 1st in school)  
+2014-2015 The First Prize Scholarship, Yunnan University (Ranked 1st in school)  
+2013-2014 China National Scholarship, Yunnan University (Ranked 1st in school) 
 
 ---
 
