@@ -51,7 +51,7 @@ Location: Haidian, Beijing, China
 
 ---
 ### INTERNSHIP
-2018.6 - 2019.4:  <b>research intern</b><br/>
+2019.6 - 2020.4:  <b>research intern</b><br/>
 Advisor: [Dr. Jiwei Li](https://nlp.stanford.edu/~bdlijiwei/), Chief Executive Officer, Shannon.ai <br/>
 Topics: Question Answering, Event Extraction<br/>
 - Proposed a new paradigm for the task of entity-relation extraction. 
