@@ -72,7 +72,7 @@ Topics: Event Extraction, Graph Convolutional Networks<br/>
 
 ---
 ### HONORS AND AWARDS
-2018-2019 The Second Prize Scholarship, Peking University (Top 16% of the campus)  
+2018-2019 The Second Prize Scholarship, Peking University (Top 16% of school)  
 2018-2019 Outstanding Student Award, Peking University (Ranked first in class)    
 2017-2018 Outstanding Research Scholarship, Peking University 
 
