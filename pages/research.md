@@ -11,22 +11,14 @@ Our analyses revealed that both SAFE and SAME provided the most accurate or clos
 
 Details of these works can be found at <a href="https://academic.oup.com/bioinformatics/article-abstract/35/8/1269/5092931"><i>Yang et al., 2019, Bioinformatics</i></a> and <a href="https://academic.oup.com/nar/article/48/1/86/5644992"><i>Huh et al., 2020, Nucleic Acids Research</i></a>.
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/SAFE_Framework.jpg">
-            <img src="../assets/SAFE_Framework.jpg" height="270" width="848" title="SAFE_Framework" alt="SAFE_Framework"/>
-        </a>
-        </div>
-    </div>
-</div>
+![avatar](../assets/chinesebert.png)
 
 ---
 
 ### Self-explaining structures improve nlp models
 
 
-
+![avatar](../assets/interprete.png)
 ---
 
 ### Entity-Relation Extraction as Multi-Turn Question Answering
@@ -35,12 +27,4 @@ Batch effect correction has been recognized to be indispensable when integrating
 
 Details of SMNN can be found at <a href="https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbaa097/5855265?redirectedFrom=fulltext"><i>Yang et al., 2020, Briefings in Bioinformatics</i></a>.
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/SMNN_Framework.jpg">
-            <img src="../assets/SMNN_Framework.jpg" height="446" width="743" title="SMNN_Framework" alt="SMNN_Framework"/>
-        </a>
-        </div>
-    </div>
-</div>
+![avatar](../assets/entity.png)
