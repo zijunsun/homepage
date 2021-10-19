@@ -17,8 +17,10 @@ Details of these works can be found at <a href="https://academic.oup.com/bioinfo
 
 ### Self-explaining structures improve nlp models
 
+<p align="center">
+  <img src="../assets/interprete.png" width="300"/>
+</p>
 
-![avatar](../assets/interprete.png)
 ---
 
 ### Entity-Relation Extraction as Multi-Turn Question Answering
@@ -27,4 +29,7 @@ Batch effect correction has been recognized to be indispensable when integrating
 
 Details of SMNN can be found at <a href="https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbaa097/5855265?redirectedFrom=fulltext"><i>Yang et al., 2020, Briefings in Bioinformatics</i></a>.
 
-![avatar](../assets/entity.png)
+
+<p align="center">
+  <img src="../assets/entity.png" width="400"/>
+</p>
