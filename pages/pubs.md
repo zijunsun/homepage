@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zijun Sun's Selected Publications
+title: Selected Publications
 ---
 
 <div class="navbar">
