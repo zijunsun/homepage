@@ -20,8 +20,13 @@ quantifier error. For each error location, we use the weighting of features to d
 
 ---
 
-### Pretrained Graph Convolutional Neural Network for Gene Set Member Classification
-
+### Pretrained Graph Convolutional Network for Gene Set Member Classification
+While  pre-training has been effective in many domains, it remains a challenge in how to 
+effectively use pre-training on graph.
+We build a unified large-scale graph network based on multiple datasets. 
+Then we followed [Hu et al., 2020](https://arxiv.org/pdf/1905.12265.pdf) and improved their 
+training tasks and training processes. 
+Finally, we got a pretrained graph convolutional network for gene nodes.   
 Gene set member identification task aims to accurately identify gene set members, i.e., 
 whether a given gene v is in a given gene set m. 
 According to a pre-defined gene interact graph and gene set, 
@@ -33,6 +38,10 @@ The embedding layer initializes graph node embeddings and the weights are initia
 pretrained node embedding. The GAT layer extract features and the classification layer 
 predict the node type.
 
+The paper is being submitted to **Nature Medicine**, so no more information can be disclosed.
+
+![avatar](../assets/pretrain.jpg)
+
 ---
 
 ### Explore the Behavior of Semi-Supervised Learning under Large-Scale Pretraining
@@ -40,10 +49,10 @@ Here is a report on a series of experiments exploring the behavior of semi-super
 The goal of semi-supervised learning is to utilize the unlabeled,
 in-domain dataset U to improve models trained on the labeled dataset D. 
 Under the context of large-scale language-model (LM) pretraining, 
-how we can make the best use of U is poorly understood, we have the following questions:   
-1) Is semi-supervised learning still beneficial with the presence of large-scale pretraining? 
-2) Should U be used for in-domain LM pretraining or pseudo-label generation? 
-3) How should the pseudo-label based semi-supervised model be actually implemented? 
+how we can make the best use of U is poorly understood, we have the following questions:
+1) Is semi-supervised learning still beneficial with the presence of large-scale pretraining?
+2) Should U be used for in-domain LM pretraining or pseudo-label generation?
+3) How should the pseudo-label based semi-supervised model be actually implemented?
 4) How different semi-supervised strategies affect performances regarding D of different sizes, U of different sizes, etc.  
 
 According to experiments and analysis, we draw the following conclusions:    
@@ -66,15 +75,5 @@ of 96.6% with the full IMDB dataset.
 More details can be find here: [[paper](https://arxiv.org/abs/2011.08626)], [[code](https://github.com/ShannonAI/Neural-Semi-Supervised-Learning-for-Text-Classification)]
 
 ![avatar](../assets/semi.png)
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/semi.png">
-            <img src="../assets/semi.png" height="270" width="848" title="semi" alt="semi"/>
-        </a>
-        </div>
-    </div>
-</div>
 
  
