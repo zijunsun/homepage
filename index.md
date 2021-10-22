@@ -19,14 +19,14 @@ title: Zijun Sun
 ### RESEARCH INTERESTS
 
 I am a Research Scientist at Shannon.AI since 2020. Before that, I obtained my M.S. degree at Peking University 
-in 2020. My research interests are in natural language processing and deep learning.  
-My main work is to track the state-of-the-art algorithms in natural language processing, I not only do research 
-on basic NLP algorithms(e.g. QA, adapter, classification..), 
-but also explore the practical NLP applications for real-world problems, 
+in 2020. My research interests are natural language processing and deep learning.  
+My main work is to track the state-of-the-art algorithms in natural language processing, Not only do I research 
+basic NLP algorithms(e.g. QA, NER, NLI..), 
+but also I explore the practical NLP applications for real-world problems, 
 such as document event extraction, text error correction.  
-In recent years, with the advancement of pretraining models, I devote myself into multimodel pretraining models. 
-For Chinese, I propose a multimodel pretraining model, 
-which considers both visual and phonetic information, and this pre-trained model can carry significant syntax and 
+In recent years, with the advancement of pre-training models, I have devoted myself to multimodel pre-training models. 
+For Chinese, I proposed a multimodel pretraining model, 
+which considered both visual and phonetic information, and this pre-trained model can carry significant syntax and 
 semantic information for language understanding.
 
 ---
@@ -62,13 +62,13 @@ Topics: Question Answering, Event Extraction<br/>
   answer spans from the context.
 - Created a novel strategy for the task of named entity recognition (NER). 
   We cast the task as a query-based machine reading comprehension task.
-- Implemented a Knowledge Base Question Answering System(KBQA) for stock market, 
+- Implemented a Knowledge Base Question Answering System(KBQA) for the stock market, 
   the pipeline includes tagging, parsing, nl2sql.
 
 2018.6 - 2019.4:  <b>research assistant</b><br/>
 Advisor: [Dr. Sujian Li](http://123.56.88.210/), Associate Professor, Peking University <br/>
-Topics: Event Extraction, Graph Convolutional Networks<br/>
-- Proposed a multi-view graph convolutional networks for the task of event extraction.
+Topics: Event Extraction, Graph Convolutional Network<br/>
+- Proposed a multi-view graph convolutional network for the task of event extraction.
 - Introduced shortcut arcs (e.g. AMR, Parse tree, Syntax Tree) to enhance information flow.
 - Captured the very long-distance dependencies by graph convolutional neural network.
 
