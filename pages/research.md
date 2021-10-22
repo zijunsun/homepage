@@ -17,22 +17,22 @@ and the pinyin embedding characterizes the pronunciation of Chinese characters,
 which handles the highly prevalent heteronym phenomenon in Chinese 
 (the same character has different pronunciations with different meanings).   
 Pretrained on large-scale unlabeled Chinese corpus, 
-the proposed ChineseBERT model yields significant performance 
+the proposed ChineseBERT model yields a significant performance 
 boost over baseline models with fewer training steps. 
 The proposed model achieves new SOTA performances on a wide range of Chinese NLP tasks(e.g. MRC, NLI, NER)
 
-More details can be find here: [[paper](https://aclanthology.org/2021.acl-long.161/)], [[code](https://github.com/ShannonAI/ChineseBert)]
+More details can be found here: [[paper](https://aclanthology.org/2021.acl-long.161/)], [[code](https://github.com/ShannonAI/ChineseBert)]
 
 ![avatar](../assets/chinesebert.png)
 
 ---
 
-### Self-explaining structures improve nlp models
+### Self-explaining structures improve NLP models
 
 In this paper, we propose a simple yet general and effective self-explaining framework 
 for deep learning models in NLP. 
 The key point of the proposed framework is to put an additional layer, 
-as is called by the interpretation layer, 
+as is called the interpretation layer, 
 on top of any existing NLP model. 
 This layer aggregates the information for each text span, 
 which is then associated with a specific weight, 
