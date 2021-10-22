@@ -5,14 +5,16 @@ title: Zijun Sun
 
 <div class="container">
     <div class="row-fluid">
-        <div class="span2">
-        <a href="assets/sunzijun.jpg">
-            <img src="assets/sunzijun.jpg" height="210" width="150" title="Zijun Sun" alt="Zijun Sun"/>
-        </a>
+        <div class="span2">               
+            <img align="left" src="assets/sunzijun.jpg" height="210" width="150" title="Zijun Sun" alt="Zijun Sun"/>
+             <br/><br/>
+             &emsp;&emsp;Research Scientist<br/>
+             <b>&emsp;&emsp;Email</b>: sunzijun@pku.edu.cn<br/>
+             <b>&emsp;&emsp;GitHub</b>: <a href="https://github.com/zijunsun">https://github.com/zijunsun</a><br/>
+            <br/><br/><br/>   
         </div>
     </div>
 </div>
-
 
 ### RESEARCH INTERESTS
 
@@ -80,14 +82,3 @@ Topics: Event Extraction, Graph Convolutional Networks<br/>
 2015-2016 The First Prize Scholarship, Yunnan University (Ranked 1st in school)  
 2014-2015 The First Prize Scholarship, Yunnan University (Ranked 1st in school)  
 2013-2014 China National Scholarship, Yunnan University (Ranked 1st in school) 
-
----
-
-### CONTACT INFORMATION
-
-<div class="container">
-    <div class="row-fluid">
-            <b>Email</b>: sunzijun@pku.edu.cn<br/>
-            <b>GitHub</b>: <a href="https://github.com/zijunsun">https://github.com/zijunsun</a><br/>
-    </div>
-</div>
