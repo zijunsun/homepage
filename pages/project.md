@@ -5,7 +5,7 @@ title: Selected Projects
 
 ### Spell Check for Chinese
 
-We implemented a powerful AI application to help people preform their reading and writing tasks more effectively. 
+We implemented a powerful AI application to help people perform their reading and writing tasks more effectively. 
 We serve hundreds of thousands of ordinary customers and dozens of enterprise customers.  
 As one of the team leaders,
 I participated in the design of the whole system and the realization and optimization of the core algorithms. 
@@ -22,7 +22,7 @@ quantifier error. For each error location, we use the weighting of features to d
 
 ### Pretrained Graph Convolutional Network for Gene Set Member Classification
 While  pre-training has been effective in many domains, it remains a challenge in how to 
-effectively use pre-training on graph.
+effectively use pre-training on graphs.
 We build a unified large-scale graph network based on multiple datasets. 
 Then we followed [Hu et al., 2020](https://arxiv.org/pdf/1905.12265.pdf) and improved their 
 training tasks and training processes. 
@@ -33,7 +33,7 @@ According to a pre-defined gene interact graph and gene set,
 we randomly mask half of the nodes and use the other half as visible information to 
 enforce the model to predict the masked half nodes.  
 The proposed neural model consists of three layers: 
-the embedding layer, the GAT layer and the classification layer. 
+the embedding layer, the GAT layer, and the classification layer. 
 The embedding layer initializes graph node embeddings and the weights are initialized by our 
 pretrained node embedding. The GAT layer extract features and the classification layer 
 predict the node type.
@@ -68,11 +68,11 @@ According to experiments and analysis, we draw the following conclusions:
    D yields better performances when D is large. 
 
 Using semi-supervised learning strategies, 
-we are able to achieve a performance of around 93.8% accuracy with 
-only 50 training data points on the IMDB dataset, and a competitive performance 
+we achieved a performance of around 93.8% accuracy with 
+only 50 training data points on the IMDB dataset, and competitive performance 
 of 96.6% with the full IMDB dataset.
 
-More details can be find here: [[paper](https://arxiv.org/abs/2011.08626)], [[code](https://github.com/ShannonAI/Neural-Semi-Supervised-Learning-for-Text-Classification)]
+More details can be found here: [[paper](https://arxiv.org/abs/2011.08626)], [[code](https://github.com/ShannonAI/Neural-Semi-Supervised-Learning-for-Text-Classification)]
 
 ![avatar](../assets/semi.png)
 
