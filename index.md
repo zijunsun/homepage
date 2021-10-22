@@ -2,34 +2,22 @@
 layout: page
 title: Zijun Sun
 ---
-<!-- <div class="container">
+<div class="container">
     <div class="row-fluid">
         <div class="span2">               
-            <img align="left" src="assets/sunzijun.jpg" height="210" width="150" title="Zijun Sun" alt="Zijun Sun"/>
-             <br/><br/>
-             &emsp;&emsp;Research Scientist<br/>
-             <b>&emsp;&emsp;Email</b>: sunzijun@pku.edu.cn<br/>
-             <b>&emsp;&emsp;GitHub</b>: <a href="https://github.com/zijunsun">https://github.com/zijunsun</a><br/>
-            <br/><br/><br/>   
+            <img src="assets/sunzijun.jpg" height="210" width="150" title="Zijun Sun" alt="Zijun Sun"/>              
         </div>
     </div>
-</div> -->
-
-<div class="span2">               
-   <img align="left" src="assets/sunzijun.jpg" height="210" width="150" title="Zijun Sun" alt="Zijun Sun"/>
-   <br/><br/>
-   &emsp;&emsp;Research Scientist<br/>
-   <b>&emsp;&emsp;Email</b>: sunzijun@pku.edu.cn<br/>
-   <b>&emsp;&emsp;GitHub</b>: <a href="https://github.com/zijunsun">https://github.com/zijunsun</a><br/>
-   <br/><br/><br/>   
 </div>
+<b>Email</b>: sunzijun@pku.edu.cn<br/>
+<b>GitHub</b>: <a href="https://github.com/zijunsun">https://github.com/zijunsun</a><br/>
 
 
 ### RESEARCH INTERESTS
 
 I am a Research Scientist at Shannon.AI since 2020. Before that, I obtained my M.S. degree at Peking University 
 in 2020. My research interests are natural language processing and deep learning.  
-My main work is to track the state-of-the-art algorithms in natural language processing, Not only do I research 
+My main work is to track the state-of-the-art algorithms in natural language processing. Not only do I research 
 basic NLP algorithms(e.g. QA, NER, NLI..), 
 but also I explore the practical NLP applications for real-world problems, 
 such as document event extraction, text error correction.  
