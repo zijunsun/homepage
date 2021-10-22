@@ -48,7 +48,7 @@ a neural model of self-explaining features obtains better performances than its 
 without the self-explaining nature, 
 achieving a new SOTA performance of 59.1 on SST-5 and a new SOTA performance of 92.3 on SNLI.
 
-More details can be find here: [[paper](https://arxiv.org/abs/2012.01786)], [[code](https://github.com/ShannonAI/Self_Explaining_Structures_Improve_NLP_Models)]
+More details can be found here: [[paper](https://arxiv.org/abs/2012.01786)], [[code](https://github.com/ShannonAI/Self_Explaining_Structures_Improve_NLP_Models)]
 
 
 <p align="center">
@@ -74,7 +74,7 @@ We are able to obtain the state-of-the-art results on all of the ACE04, ACE05 an
 increasing the SOTA results on the three datasets to 49.6 (+1.2), 60.3 (+0.7) and 69.2 (+1.4), 
 respectively.
 
-More details can be find here: [[paper](https://aclanthology.org/P19-1129/)], [[code](https://github.com/ShannonAI/Entity-Relation-As-Multi-Turn-QA)]
+More details can be found here: [[paper](https://aclanthology.org/P19-1129/)], [[code](https://github.com/ShannonAI/Entity-Relation-As-Multi-Turn-QA)]
 
 <p align="center">
   <img src="../assets/entity.png" width="400"/>
