@@ -2,8 +2,7 @@
 layout: page
 title: Zijun Sun
 ---
-
-<div class="container">
+<!-- <div class="container">
     <div class="row-fluid">
         <div class="span2">               
             <img align="left" src="assets/sunzijun.jpg" height="210" width="150" title="Zijun Sun" alt="Zijun Sun"/>
@@ -14,7 +13,17 @@ title: Zijun Sun
             <br/><br/><br/>   
         </div>
     </div>
+</div> -->
+
+<div class="span2">               
+   <img align="left" src="assets/sunzijun.jpg" height="210" width="150" title="Zijun Sun" alt="Zijun Sun"/>
+   <br/><br/>
+   &emsp;&emsp;Research Scientist<br/>
+   <b>&emsp;&emsp;Email</b>: sunzijun@pku.edu.cn<br/>
+   <b>&emsp;&emsp;GitHub</b>: <a href="https://github.com/zijunsun">https://github.com/zijunsun</a><br/>
+   <br/><br/><br/>   
 </div>
+
 
 ### RESEARCH INTERESTS
 
