@@ -10,7 +10,7 @@ title: Zijun Sun
     </div>
 </div>
 <b>Email</b>: sunzijun@pku.edu.cn<br/>
-<a href="https://raw.githubusercontent.com/zijunsun/aboutMe/gh-pages/Zijun-CV.pdf">[CV] </a> 
+<a href="https://drive.google.com/file/d/1rhCjEfCc6MsGCPnMQqH4bGv4uk-Qq6TQ/view?usp=sharing">[CV] </a> 
 <a href="https://scholar.google.com/citations?hl=en&user=kJ_5gK4AAAAJ">[Google Scholar] </a>
 <a href="https://github.com/zijunsun">[GitHub]</a><br/> 
 
