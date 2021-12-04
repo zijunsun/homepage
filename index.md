@@ -84,6 +84,6 @@ Topics: Event Extraction, Graph Convolutional Network<br/>
 
 ---
 ### SKILLS
-**Technical**：Python, Java, MySQL, Pytorch, Tensorflow, NLP, ML, DL   
-**TOEFL**：105 （Reading 30, Listening 27, Speaking 21, Writing: 27）  
+**Technical**: Python, Java, MySQL, Pytorch, Tensorflow, NLP, ML, DL   
+**TOEFL**: 105 （Reading 30, Listening 27, Speaking 21, Writing: 27）  
 **GRE**: 330 (Verbal 170, Quantitative 160 )
