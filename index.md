@@ -80,3 +80,9 @@ Topics: Event Extraction, Graph Convolutional Network<br/>
 2015-2016 The First Prize Scholarship, Yunnan University (Ranked 1st in school)  
 2014-2015 The First Prize Scholarship, Yunnan University (Ranked 1st in school)  
 2013-2014 China National Scholarship, Yunnan University (Ranked 1st in school) 
+
+---
+### SKILLS
+**Technical**：Python, Java, MySQL, Pytorch, Tensorflow, NLP, ML, DL
+**TOEFL**：105 （Reading 30, Listening 27, Speaking 21, Writing: 27）
+**GRE**: 330 (Verbal 170, Quantitative 160 )
