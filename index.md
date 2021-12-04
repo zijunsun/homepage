@@ -10,9 +10,9 @@ title: Zijun Sun
     </div>
 </div>
 <b>Email</b>: sunzijun@pku.edu.cn<br/>
-<b>GitHub</b>: <a href="https://github.com/zijunsun">https://github.com/zijunsun</a><br/>
-<a href="https://raw.githubusercontent.com/zijunsun/aboutMe/gh-pages/Zijun-CV.pdf">[CV]</a> 
-<a href="https://scholar.google.com/citations?hl=en&user=kJ_5gK4AAAAJ">[Google Scholar]</a><br/> 
+<a href="https://raw.githubusercontent.com/zijunsun/aboutMe/gh-pages/Zijun-CV.pdf">[CV] </a> 
+<a href="https://scholar.google.com/citations?hl=en&user=kJ_5gK4AAAAJ">[Google Scholar] </a>
+<b>GitHub</b>: <a href="https://github.com/zijunsun">[GitHub]</a><br/> 
 
 
 ### RESEARCH INTERESTS
