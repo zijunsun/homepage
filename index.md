@@ -11,7 +11,8 @@ title: Zijun Sun
 </div>
 <b>Email</b>: sunzijun@pku.edu.cn<br/>
 <b>GitHub</b>: <a href="https://github.com/zijunsun">https://github.com/zijunsun</a><br/>
-<b>Resume</b>: <a href="https://raw.githubusercontent.com/zijunsun/aboutMe/gh-pages/Zijun-CV.pdf">CV</a><br/>
+<a href="https://raw.githubusercontent.com/zijunsun/aboutMe/gh-pages/Zijun-CV.pdf">[CV]</a> 
+<a href="https://scholar.google.com/citations?hl=en&user=kJ_5gK4AAAAJ">[Google Scholar]</a><br/> 
 
 
 ### RESEARCH INTERESTS
